@@ -1,10 +1,10 @@
 {
   "posts": [
     { "id": 1, "title": "Test 1", "author": "Moi", "avatar": "https://reqres.in/img/faces/2-image.jpg" },
-    { "id": 2, "title": "json-server", "author": "typicode" , "avatar": "https://reqres.in/img/faces/2-image.jpg"},
-    { "id": 3, "title": "React Native", "author": "typicode 2", "avatar": "https://reqres.in/img/faces/2-image.jpg" },
-    { "id": 4, "title": "json-server 3", "author": "typicode 3" , "avatar": "https://reqres.in/img/faces/2-image.jpg"},
-    { "id": 5, "title": "Angular 9", "author": "typicode 4", "avatar": "https://reqres.in/img/faces/2-image.jpg" }
+    { "id": 2, "title": "json-server", "author": "typicode" , "avatar": "https://reqres.in/img/faces/3-image.jpg"},
+    { "id": 3, "title": "React Native", "author": "typicode 2", "avatar": "https://reqres.in/img/faces/4-image.jpg" },
+    { "id": 4, "title": "json-server 3", "author": "typicode 3" , "avatar": "https://reqres.in/img/faces/7-image.jpg"},
+    { "id": 5, "title": "Angular 9", "author": "typicode 4", "avatar": "https://reqres.in/img/faces/5-image.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
