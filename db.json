@@ -4,7 +4,7 @@
     { "id": 2, "title": "json-server", "author": "typicode" },
     { "id": 3, "title": "React Native", "author": "typicode 2" },
     { "id": 4, "title": "json-server 3", "author": "typicode 3" },
-    { "id": 5, "title": "Angular 9", "author": "typicode 4" },
+    { "id": 5, "title": "Angular 9", "author": "typicode 4" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
